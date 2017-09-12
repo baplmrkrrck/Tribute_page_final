@@ -1,0 +1,19 @@
+#intro {
+    background: #CCCCCC;
+    color: #FFFFFF;
+    border: 2px solid #333333;
+    padding: 8px 16px;
+    margin: auto;
+    width: 50%;
+    text-align: center
+}
+
+.center
+{
+    margin: auto;
+    width: 20%;
+}
+
+a:hover {
+    color: green;
+}
