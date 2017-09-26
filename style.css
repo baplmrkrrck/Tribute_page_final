@@ -1,19 +1,25 @@
-#intro {
-    background: #CCCCCC;
-    color: #FFFFFF;
-    border: 2px solid #333333;
-    padding: 8px 16px;
-    margin: auto;
-    width: 50%;
-    text-align: center
+h2 {
+    border-bottom: 2px solid #333333;
 }
 
 .center
 {
     margin: auto;
     width: 20%;
+    padding: 8px 16px;
 }
 
-a:hover {
-    color: green;
+#intro {
+    background: #CCCCCC;
+    color: #FFFFFF;
+    border-top: 2px solid #333333;
+    padding: 8px 8px;
+    text-align: center;
+    width: 100%;
+    border-top-style: solid;
 }
+
+#controversial {
+    
+}
+
